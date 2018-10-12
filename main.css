@@ -1,0 +1,83 @@
+#font{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 70px;
+    font-weight: 800px;
+    color: white;
+    background-color: #4b4b4b;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+
+.phone{
+    background-color: #d1ccc0;
+    margin-bottom 20px;
+}
+#font2{
+
+    font-family: 'Farsan', cursive;
+    font-weight: 900;
+
+}
+
+.t2{
+  background-color: #f7f1e3;  
+    
+}
+.t1{
+
+    background-color: #f7f1e3;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    
+}
+
+
+#text1 {
+
+
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 120px;
+    color:darkorange;
+    font-weight: 800px;
+    font-size: 25px;
+
+}
+h2,p{
+    font-size: 20px;
+}
+
+.top{
+    padding-bottom: 20px;
+    background-color: #f7f1e3;
+}
+.bottom{
+    padding-bottom: 20px;
+    background-color: #f7f1e3;
+
+}
+
+#map {
+    height: 300px;
+    
+}
+
+.socialmedia{
+    padding-bottom: 30px;
+}
+
+.copyright{
+    font-family: 'Shadows Into Light', cursive;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+     background-color: #4b4b4b;
+    color: white;
+    font-weight: 800px;
+}
