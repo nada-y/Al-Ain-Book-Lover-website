@@ -23,8 +23,8 @@ All information inside website is not real information.
 
 Files that I used in this project are :
 
-HTML file 
-CSS file
+- main HTML file 
+- main CSS file
 
 
 
