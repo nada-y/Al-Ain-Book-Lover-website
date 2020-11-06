@@ -1,15 +1,18 @@
-# Year Created
+# Al Ain Book Lover Website
+
+
+### Year created 
 2018
 
-# Author Name
+###  Author Name
 
 Author : Nada
 
-# Project Title
+### Project Title
 
 Al Ain Book Lover Webiste 
 
-# Description
+###  Description
 
 Here I persent my Al Ain Book Lover WebisteProject .
 
@@ -17,14 +20,17 @@ In this project will explore and will have brefie about  Al Ain City book lover
 
 All information inside website is not real information.
 
+It is static website .
+
+
 
 
 # Files used
 
 Files that I used in this project are :
 
-- main HTML file 
-- main CSS file
+- index.html
+- main.css
 
 
 
